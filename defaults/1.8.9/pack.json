@@ -1,0 +1,7 @@
+{
+	"name": "Fusion Default Pack 1.8.9 Forge",
+	"modloader": "forge",
+	"loaderUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.8.9-11.15.1.2318-1.8.9/forge-1.8.9-11.15.1.2318-1.8.9-universal.jar",
+	"java": "8",
+	"version": "1.8.9"
+}
