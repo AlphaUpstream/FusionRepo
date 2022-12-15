@@ -1,0 +1,8 @@
+{
+	"name": "Fusion Default Pack 1.18.2 Fabric",
+	"modloader": "fabric",
+	"loaderVersion": "0.14.9",
+	"java": "17",
+	"version": "1.18.2",
+	"verified": "true"
+}

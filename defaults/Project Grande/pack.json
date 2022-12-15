@@ -1,0 +1,8 @@
+{
+	"name": "Fusion Wine Grande Edition",
+	"modloader": "fabric",
+	"loaderVersion": "0.14.10",
+	"java": "19",
+	"version": "Wine",
+	"verified": "false"
+}
