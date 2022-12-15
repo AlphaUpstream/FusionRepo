@@ -3,6 +3,6 @@
 	"modloader": "fabric",
 	"loaderVersion": "0.14.10",
 	"java": "19",
-	"version": "Wine",
+	"version": "1.19",
 	"verified": "false"
 }
