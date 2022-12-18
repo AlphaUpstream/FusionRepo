@@ -55,6 +55,11 @@
         "source": "modrinth"
     },
     {
+        "name": "brb",
+        "slug": "brb",
+        "source": "modrinth"
+    },
+    {
         "name": "krypton",
         "slug": "krypton",
         "source": "modrinth"
@@ -117,12 +122,17 @@
     {
         "name": "thorium",
         "source": "link",
-        "link": "https://github.com/PotassiumMC/thorium/releases/download/1.3.0/thorium-1.3.0.jar"
+        "link": "https://github.com/PotassiumMC/thorium/releases/download/1.4.0/thorium-1.4.0.jar"
     },
     {
         "name": "sodium",
         "source": "link",
         "link": "https://github.com/CaffeineMC/sodium-fabric/releases/download/mc1.19-0.4.2/sodium-fabric-mc1.19-0.4.2+build.16.jar"
+    },
+    {
+        "name": "nochatreports",
+        "source": "link",
+        "link": "https://github.com/Aizistral-Studios/No-Chat-Reports/releases/download/RDT-1.19-v1.1.0/ReportDebugTool-1.19-v1.1.0.jar"
     },
     {
         "name": "lithium",
@@ -132,6 +142,6 @@
     {
         "name": "clearskies",
         "source": "link",
-        "link": "https://github.com/grondag/clear-skies/releases/download/fabric-mc119-2.0.93/clear-skies-fabric-mc119-2.0.93.jar"
+        "link": "https://github.com/grondag/clear-skies/releases/download/fabric-mc119-2.0.96/clear-skies-fabric-mc119-2.0.96.jar"
     }
 ]
